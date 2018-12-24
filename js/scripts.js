@@ -25,7 +25,7 @@ if((isNaN(numberOne))||(isNaN(numberTwo))||(isNaN(numberThree))){
 
     }
 
-  else if(numberOne===numberTwo&&numberTwo===numberThree&&numberThree===numberOne){              
+  // else if(numberOne===numberTwo&&numberTwo===numberThree&&numberThree===numberOne){              
       output="an equilateral triangle";  
   }
   else if(numberOne===numberTwo||numberOne===numberThree||numberTwo===numberThree){
