@@ -16,7 +16,7 @@ input[type=number]{
 
 } 
 button{
-  /* height:40px; */
+  height:40px;
   background-color: rgb(3, 3, 133);
   color: white;
   width:170px;
