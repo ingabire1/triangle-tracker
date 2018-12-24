@@ -3,11 +3,11 @@
   var output; 
 numberOne=parseInt(document.getElementById("one").value);
 numberTwo=parseInt(document.getElementById("two").value);
-// numberThree=parseInt(document.getElementById("three").value);
+numberThree=parseInt(document.getElementById("three").value);
 
 array=[numberOne,numberTwo,numberThree];
 if((isNaN(numberOne))||(isNaN(numberTwo))||(isNaN(numberThree))){
-  output="please fill all the input fields"; 
+  output="please fill all the input fields";
 }
   else if(numberOne<=0||numberTwo<=0||numberThree<=0){
       output="Please enter positive numbers different from zero only";
