@@ -1,4 +1,4 @@
-// function check(){
+ function check(){
   var numberOne,numberTwo,numberThree,array; 
   var output; 
 numberOne=parseInt(document.getElementById("one").value);
