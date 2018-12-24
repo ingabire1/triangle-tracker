@@ -1,0 +1,48 @@
+body{
+  background-color: blue;
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+  
+}
+
+input[type=number]{
+  background-color: black;
+  height:70px;
+  width:400px;
+  margin-top:18px;
+  color: white;
+  padding: 10px;
+
+}
+
+button{
+  height:40px;
+  background-color: rgb(3, 3, 133);
+  color: white;
+  width:170px;
+  margin-top: 20px;
+
+}
+
+h1{
+  font-size:40px;
+  font-family: 'Courier New', Courier, monospace; 
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
