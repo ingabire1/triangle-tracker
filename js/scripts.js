@@ -3,7 +3,7 @@
   var output; 
 numberOne=parseInt(document.getElementById("one").value);
 numberTwo=parseInt(document.getElementById("two").value);
-numberThree=parseInt(document.getElementById("three").value);
+// numberThree=parseInt(document.getElementById("three").value);
 
 array=[numberOne,numberTwo,numberThree];
 if((isNaN(numberOne))||(isNaN(numberTwo))||(isNaN(numberThree))){
