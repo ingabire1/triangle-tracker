@@ -1,4 +1,4 @@
-# Triangle=Tracker
+# Triangle-Tracker
 #### Webpage to determine type of triangle
 #### By **Ingabire Sylvie**
 ## Description
